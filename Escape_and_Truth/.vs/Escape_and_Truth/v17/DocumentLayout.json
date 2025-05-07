@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\uC131\uACB0\uB300\uD559\uAD50 \uAC15\uC758 \uBC0F \uD559\uC2B5 \uC790\uB8CC\\2\uD559\uB144 1\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D \uC124\uACC4\\\uCD5C\uC885 \uACB0\uACFC\uBB3C\\Escape_and_Truth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0413117-4ACD-42C7-BE6E-E47CF1853859}|Escape_and_Truth\\Escape_and_Truth.vcxproj|C:\\\uC131\uACB0\uB300\uD559\uAD50 \uAC15\uC758 \uBC0F \uD559\uC2B5 \uC790\uB8CC\\2\uD559\uB144 1\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D \uC124\uACC4\\\uCD5C\uC885 \uACB0\uACFC\uBB3C\\Escape_and_Truth\\Escape_and_Truth\\game1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0413117-4ACD-42C7-BE6E-E47CF1853859}|Escape_and_Truth\\Escape_and_Truth.vcxproj|solutionrelative:Escape_and_Truth\\game1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0413117-4ACD-42C7-BE6E-E47CF1853859}|Escape_and_Truth\\Escape_and_Truth.vcxproj|C:\\\uC131\uACB0\uB300\uD559\uAD50 \uAC15\uC758 \uBC0F \uD559\uC2B5 \uC790\uB8CC\\2\uD559\uB144 1\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D \uC124\uACC4\\\uCD5C\uC885 \uACB0\uACFC\uBB3C\\Escape_and_Truth\\Escape_and_Truth\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0413117-4ACD-42C7-BE6E-E47CF1853859}|Escape_and_Truth\\Escape_and_Truth.vcxproj|solutionrelative:Escape_and_Truth\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game1.c",
+              "DocumentMoniker": "C:\\\uC131\uACB0\uB300\uD559\uAD50 \uAC15\uC758 \uBC0F \uD559\uC2B5 \uC790\uB8CC\\2\uD559\uB144 1\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D \uC124\uACC4\\\uCD5C\uC885 \uACB0\uACFC\uBB3C\\Escape_and_Truth\\Escape_and_Truth\\game1.c",
+              "RelativeDocumentMoniker": "Escape_and_Truth\\game1.c",
+              "ToolTip": "C:\\\uC131\uACB0\uB300\uD559\uAD50 \uAC15\uC758 \uBC0F \uD559\uC2B5 \uC790\uB8CC\\2\uD559\uB144 1\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D \uC124\uACC4\\\uCD5C\uC885 \uACB0\uACFC\uBB3C\\Escape_and_Truth\\Escape_and_Truth\\game1.c",
+              "RelativeToolTip": "Escape_and_Truth\\game1.c",
+              "ViewState": "AQIAAHoBAAAAAAAAAAAAAMIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-14T09:15:57.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\\uC131\uACB0\uB300\uD559\uAD50 \uAC15\uC758 \uBC0F \uD559\uC2B5 \uC790\uB8CC\\2\uD559\uB144 1\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D \uC124\uACC4\\\uCD5C\uC885 \uACB0\uACFC\uBB3C\\Escape_and_Truth\\Escape_and_Truth\\main.c",
+              "RelativeDocumentMoniker": "Escape_and_Truth\\main.c",
+              "ToolTip": "C:\\\uC131\uACB0\uB300\uD559\uAD50 \uAC15\uC758 \uBC0F \uD559\uC2B5 \uC790\uB8CC\\2\uD559\uB144 1\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D \uC124\uACC4\\\uCD5C\uC885 \uACB0\uACFC\uBB3C\\Escape_and_Truth\\Escape_and_Truth\\main.c",
+              "RelativeToolTip": "Escape_and_Truth\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-14T09:14:04.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
